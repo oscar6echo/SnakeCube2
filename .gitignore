@@ -1,1 +1,10 @@
 .DS_Store
+*.py[cod]
+**.ipynb_checkpoints
+**.egg-info
+SnakeCube.ipynb
+SnakeCube.html
+data/df_raw_solution_python.pk
+data/df_raw_solution.pk
+old/*
+.gitignore
